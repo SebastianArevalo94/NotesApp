@@ -1,1 +1,3 @@
+.gitigore
 api/.vs/
+front/node_modules/
